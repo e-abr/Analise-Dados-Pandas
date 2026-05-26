@@ -60,12 +60,12 @@ df.describe()
 📌 Aula 4 e 5 — Manipulação e Tratamento de Dados
 Conteúdos relacionados à limpeza, transformação e manipulação de dados com Pandas.
 Principais tópicos:
-Seleção de colunas
-Trabalhando com valores nulos
-Conversão de tipos
-Operações em DataFrames
-Agrupamentos e filtros
-Manipulação avançada de tabelas
+- Seleção de colunas
+- Trabalhando com valores nulos
+- Conversão de tipos
+- Operações em DataFrames
+- Agrupamentos e filtros
+- Manipulação avançada de tabelas
 
 📌 Aula 6 — Visualização e Continuação da Análise
 Aplicação prática de análise exploratória e visualização de dados.
