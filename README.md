@@ -3,10 +3,10 @@
 ## Repositório contendo exercícios e anotações desenvolvidos durante o curso de Python para Análise de Dados, abordando desde os fundamentos da linguagem até manipulação e análise de dados com a biblioteca Pandas.
 
 🚀 Tecnologias Utilizadas
-Python 3
-Google Colab
-Pandas
-Jupyter Notebook
+- Python 3
+- Google Colab
+- Pandas
+- Jupyter Notebook
 
 ## 📚 Conteúdo das Aulas
 
@@ -67,6 +67,7 @@ df.head()
 df.describe()
 
 📌 [Aula 4 e 5 — Manipulação e Tratamento de Dados](./Aula%204%20e%205/)
+
 Conteúdos relacionados à limpeza, transformação e manipulação de dados com Pandas.
 Principais tópicos:
 - Seleção de colunas
@@ -76,19 +77,21 @@ Principais tópicos:
 - Agrupamentos e filtros
 - Manipulação avançada de tabelas
 
-📌 Aula 6 — Visualização e Continuação da Análise
+📌 [Aula 6 — Visualização e Continuação da Análise](./Aula%206/)
+
 Aplicação prática de análise exploratória e visualização de dados.
 Conteúdos:
-Continuação do uso do Pandas
-Exploração de datasets
-Análises estatísticas
-Visualização de informações
+- Continuação do uso do Pandas
+- Exploração de datasets
+- Análises estatísticas
+- Visualização de informações
 
-📌 Aula 7 — Recursos Avançados
+📌 [Aula 7 — Recursos Avançados](./Aula%207/)
+
 Aprofundamento em análise de dados utilizando Python e Pandas.
 Possíveis tópicos abordados:
-Tratamento avançado de dados
-Operações estatísticas
-Funções e análises mais complexas
-Consolidação do aprendizado
+- Tratamento avançado de dados
+- Operações estatísticas
+- Funções e análises mais complexas
+- Consolidação do aprendizado
 
