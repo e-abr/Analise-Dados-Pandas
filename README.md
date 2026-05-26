@@ -26,8 +26,8 @@ Principais tópicos:
 Exemplos:
 ```python
 print("Olá Mundo")
-frase.lower()
-´´´
+frase.lower()´´´
+
 
 📌 [Aula 2 — Estruturas de Dados](./Aula%202/)
 Introdução às principais estruturas de dados do Python.
