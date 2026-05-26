@@ -50,6 +50,7 @@ animais.append("cobra")
 dct["Maçã"] = 25
 
 📌 [Aula 3 — Introdução ao Pandas](./Aula%203/)
+
 Primeiros passos com análise de dados utilizando Pandas.
 Conteúdos:
 - Importação da biblioteca
