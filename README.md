@@ -46,8 +46,10 @@ Principais tópicos:
 - Métodos .keys() e .values()
 
 Exemplos:
+```python
 animais.append("cobra")
 dct["Maçã"] = 25
+```
 
 📌 [Aula 3 — Introdução ao Pandas](./Aula%203/)
 
