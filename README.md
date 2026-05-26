@@ -30,6 +30,7 @@ frase.lower()
 ```
 
 📌 [Aula 2 — Estruturas de Dados](./Aula%202/)
+
 Introdução às principais estruturas de dados do Python.
 Principais tópicos:
 - Listas
