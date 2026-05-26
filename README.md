@@ -26,7 +26,7 @@ Principais tópicos:
 Exemplos:
 ```python
 print("Olá Mundo")
-frase.lower()´´´
+frase.lower()```
 
 
 📌 [Aula 2 — Estruturas de Dados](./Aula%202/)
