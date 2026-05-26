@@ -1,4 +1,85 @@
 # Análise De Dados com Python e Pandas
 
-## Projeto com a DigitalInnovationOne com o objetivo de realizar a análise de dados utilizando a linguagem Python, com a biblioteca Pandas.
+## Repositório contendo exercícios e anotações desenvolvidos durante o curso de Python para Análise de Dados, abordando desde os fundamentos da linguagem até manipulação e análise de dados com a biblioteca Pandas.
+
+🚀 Tecnologias Utilizadas
+Python 3
+Google Colab
+Pandas
+Jupyter Notebook
+
+📚 Conteúdo das Aulas
+
+📌 Aula 1 — Introdução ao Python
+Principais conceitos básicos da linguagem:
+Primeiro programa em Python
+Operações matemáticas
+Variáveis
+Strings
+Fatiamento de texto
+Métodos de string
+Comentários
+Exemplos abordados:
+print("Olá Mundo")
+frase.lower()
+
+📌 Aula 2 — Estruturas de Dados
+Introdução às principais estruturas de dados do Python:
+Listas
+Criação
+Manipulação
+Inserção e remoção
+Ordenação
+Busca de elementos
+Tuplas
+Conceito de imutabilidade
+Acesso aos elementos
+Dicionários
+Chave e valor
+Atualização de dados
+Métodos .keys() e .values()
+Exemplos:
+animais.append("cobra")
+dc["Maçã"] = 25
+
+📌 Aula 3 — Introdução ao Pandas
+Primeiros passos com análise de dados utilizando Pandas.
+Conteúdos:
+Importação da biblioteca
+Leitura de arquivos CSV
+DataFrames
+Renomeação de colunas
+Estatística descritiva
+Filtragem de dados
+Agrupamentos
+Exemplos:
+import pandas as pd
+df.head()
+df.describe()
+
+📌 Aula 4 e 5 — Manipulação e Tratamento de Dados
+Conteúdos relacionados à limpeza, transformação e manipulação de dados com Pandas.
+Principais tópicos:
+Seleção de colunas
+Trabalhando com valores nulos
+Conversão de tipos
+Operações em DataFrames
+Agrupamentos e filtros
+Manipulação avançada de tabelas
+
+📌 Aula 6 — Visualização e Continuação da Análise
+Aplicação prática de análise exploratória e visualização de dados.
+Conteúdos:
+Continuação do uso do Pandas
+Exploração de datasets
+Análises estatísticas
+Visualização de informações
+
+📌 Aula 7 — Recursos Avançados
+Aprofundamento em análise de dados utilizando Python e Pandas.
+Possíveis tópicos abordados:
+Tratamento avançado de dados
+Operações estatísticas
+Funções e análises mais complexas
+Consolidação do aprendizado
 
