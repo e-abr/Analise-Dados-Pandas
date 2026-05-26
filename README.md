@@ -8,39 +8,44 @@ Google Colab
 Pandas
 Jupyter Notebook
 
-📚 Conteúdo das Aulas
+## 📚 Conteúdo das Aulas
 
-📌 Aula 1 — Introdução ao Python
-Principais conceitos básicos da linguagem:
-Primeiro programa em Python
-Operações matemáticas
-Variáveis
-Strings
-Fatiamento de texto
-Métodos de string
-Comentários
-Exemplos abordados:
+📌 [Aula 1 — Introdução ao Python](./Aula_1/)
+
+Conteúdos básicos da linguagem Python.
+
+Principais tópicos:
+- Primeiro programa em Python
+- Operações matemáticas
+- Variáveis
+- Strings
+- Fatiamento de texto
+- Métodos de string
+- Comentários
+
+Exemplos:
+```python
 print("Olá Mundo")
 frase.lower()
 
-📌 Aula 2 — Estruturas de Dados
-Introdução às principais estruturas de dados do Python:
-Listas
-Criação
-Manipulação
-Inserção e remoção
-Ordenação
-Busca de elementos
-Tuplas
-Conceito de imutabilidade
-Acesso aos elementos
-Dicionários
-Chave e valor
-Atualização de dados
-Métodos .keys() e .values()
+📌 [Aula 2 — Estruturas de Dados](./Aula_2/)
+Introdução às principais estruturas de dados do Python.
+Principais tópicos:
+- Listas
+- Criação e manipulação
+- Inserção e remoção
+- Ordenação
+- Busca de elementos
+- Tuplas
+- Conceito de imutabilidade
+- Dicionários
+- Chave e valor
+- Atualização de dados
+- Métodos .keys() e .values()
+
 Exemplos:
 animais.append("cobra")
-dc["Maçã"] = 25
+dct["Maçã"] = 25
 
 📌 Aula 3 — Introdução ao Pandas
 Primeiros passos com análise de dados utilizando Pandas.
@@ -57,7 +62,7 @@ import pandas as pd
 df.head()
 df.describe()
 
-📌 Aula 4 e 5 — Manipulação e Tratamento de Dados
+📌 [Aula 4 e 5 — Manipulação e Tratamento de Dados](./Aula_4_e_5/)
 Conteúdos relacionados à limpeza, transformação e manipulação de dados com Pandas.
 Principais tópicos:
 - Seleção de colunas
