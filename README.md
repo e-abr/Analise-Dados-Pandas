@@ -10,7 +10,7 @@ Jupyter Notebook
 
 ## 📚 Conteúdo das Aulas
 
-📌 [Aula 1 — Introdução ao Python](./Aula_1/)
+📌 [Aula 1 — Introdução ao Python](./Aula 1/)
 
 Conteúdos básicos da linguagem Python.
 
