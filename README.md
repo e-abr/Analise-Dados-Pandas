@@ -28,7 +28,7 @@ Exemplos:
 print("Olá Mundo")
 frase.lower()
 
-📌 [Aula 2 — Estruturas de Dados](./Aula_2/)
+📌 [Aula 2 — Estruturas de Dados](./Aula%202/)
 Introdução às principais estruturas de dados do Python.
 Principais tópicos:
 - Listas
@@ -47,22 +47,23 @@ Exemplos:
 animais.append("cobra")
 dct["Maçã"] = 25
 
-📌 Aula 3 — Introdução ao Pandas
+📌 [Aula 3 — Introdução ao Pandas](./Aula%203/)
 Primeiros passos com análise de dados utilizando Pandas.
 Conteúdos:
-Importação da biblioteca
-Leitura de arquivos CSV
-DataFrames
-Renomeação de colunas
-Estatística descritiva
-Filtragem de dados
-Agrupamentos
-Exemplos:
+- Importação da biblioteca
+- Leitura de arquivos CSV
+- DataFrames
+- Renomeação de colunas
+- Estatística descritiva
+- Filtragem de dados
+- Agrupamentos
+- Exemplos:
+
 import pandas as pd
 df.head()
 df.describe()
 
-📌 [Aula 4 e 5 — Manipulação e Tratamento de Dados](./Aula_4_e_5/)
+📌 [Aula 4 e 5 — Manipulação e Tratamento de Dados](./Aula%204%20e%205/)
 Conteúdos relacionados à limpeza, transformação e manipulação de dados com Pandas.
 Principais tópicos:
 - Seleção de colunas
